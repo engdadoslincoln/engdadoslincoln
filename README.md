@@ -47,13 +47,7 @@ Atualmente focado em **AWS**, **Cloud Architecture** e **Serverless**.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
-
----
-
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/seu-linkedin
-- 📧 Email: seu@email.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/lincoln-monteiro-10537560/)
+- 📧 Email: eng.dados.lincolnlmonteiro@gmail.com
