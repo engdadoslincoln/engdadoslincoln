@@ -49,5 +49,5 @@ Atualmente focado em **AWS**, **Cloud Architecture** e **Serverless**.
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/lincolnlmonteiro](https://www.linkedin.com/in/lincoln-monteiro-10537560/)
+- 💼 LinkedIn: [https://www.linkedin.com/lincolnlmonteiro](https://www.linkedin.com/in/lincoln-monteiro-10537560/)
 - 📧 Email: eng.dados.lincolnlmonteiro@gmail.com
