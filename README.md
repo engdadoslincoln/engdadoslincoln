@@ -1,53 +1,102 @@
-# 👋 Olá, eu sou Lincoln Monteiro
+# 🧠💾 DBA | Data Reliability Engineer
 
-💻 Especialista em Tecnologia | Cloud | Banco de Dados | Automação  
-☁️ Foco em AWS, Arquitetura Cloud e Soluções Escaláveis  
+Olá! Eu sou **Lincoln Monteiro** 👋  
+DBA Sênior com foco em **alta disponibilidade**, **performance**, **segurança** e **dados críticos em produção**.
 
----
-
-## 🚀 Sobre mim
-
-Sou profissional de tecnologia com experiência em:
-- Arquitetura e administração de ambientes cloud
-- Automação de processos
-- Banco de dados e alta disponibilidade
-- Construção de soluções escaláveis e seguras
-
-Atualmente focado em **AWS**, **Cloud Architecture** e **Serverless**.
+> “Dados indisponíveis não são dados — são risco.”
 
 ---
 
-## ☁️ AWS | Cloud Skills
+## 🧩 Sobre mim
 
-- EC2, S3, RDS, DynamoDB
-- IAM, VPC, Security Groups
-- Lambda, API Gateway
-- CloudWatch, CloudTrail
-- Infraestrutura como Código (Terraform / CDK)
+Sou apaixonado por **dados confiáveis em ambientes complexos**.  
+Atuo garantindo que bancos de dados estejam:
 
----
+✔️ Disponíveis  
+✔️ Performáticos  
+✔️ Seguros  
+✔️ Observáveis  
 
-## 🛠️ Tecnologias
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Linux](https://img.shields.io/badge/Linux-OS-black)
+Experiência sólida em ambientes **on-premise**, **cloud** e **híbridos**, com atuação forte em **automação**, **monitoramento** e **resolução de incidentes críticos**.
 
 ---
 
-## 📂 Projetos em Destaque
+## 🛠️ Stack de Banco de Dados
 
-🔹 **AWS Serverless App**
-> API Serverless usando Lambda, API Gateway e DynamoDB  
-> Infra como código e monitoramento com CloudWatch  
+### 🔹 SQL Server
+- Replicação (Transactional, Snapshot)
+- Always On Availability Groups
+- Tuning avançado (Query Store, Execution Plans)
+- Troubleshooting de bloqueios e deadlocks
+- Backup, Restore e DR
 
-🔹 **Automação e Monitoramento**
-> Scripts e soluções para observabilidade e alertas  
+### 🔹 Outros Bancos
+- PostgreSQL
+- MySQL
+- Azure SQL / RDS
+
+---
+
+## ☁️ Cloud & Infra
+
+- ☁️ **AWS**: RDS, EC2, S3, CloudWatch, IAM
+- 🧱 Infra como Código: Terraform / CloudFormation
+- 🐳 Docker (ambientes de teste e automação)
+- 🐧 Linux (administração e scripts)
+
+---
+
+## 🤖 Automação & Observabilidade
+
+- PowerShell & Bash
+- Jobs automatizados de manutenção
+- Monitoramento proativo
+- Alertas inteligentes (Grafana, Prometheus)
+- Integração com Slack / Teams
+
+---
+
+## 🚨 Incidentes & Performance
+
+- Análise de waits e locks
+- Root Cause Analysis (RCA)
+- Redução de MTTR
+- Atuação em ambientes críticos 24x7
+
+---
+
+## 📊 Projetos em Destaque
+
+🔹 **Monitoramento de Replicação SQL Server**
+> Dashboard em Grafana + alertas inteligentes  
+> Identificação proativa de backlog e gargalos
+
+🔹 **Automação de Rotinas DBA**
+> Backups, limpeza, health check e alertas  
+> Redução de falhas humanas e tempo operacional
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+---
+
+## 🎯 Em evolução
+
+- 📌 Data Reliability Engineering (DRE)
+- 📌 Observabilidade de dados
+- 📌 Arquiteturas cloud-native
+- 📌 Certificação AWS
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [https://www.linkedin.com/lincolnlmonteiro](https://www.linkedin.com/in/lincoln-monteiro-10537560/)
-- 📧 Email: eng.dados.lincolnlmonteiro@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/seu-linkedin
+- 📧 Email: seu@email.com
+
+---
+
+💬 *“DBA moderno não só mantém o banco no ar — ele antecipa o problema.”*
