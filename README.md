@@ -29,7 +29,7 @@ Atualmente focado em **AWS**, **Cloud Architecture** e **Serverless**.
 
 ## 🛠️ Tecnologias
 
-![AWS](https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic)
+![AWS](https://shields.io/badge/style-plastic-green?logo=appveyor&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ![Linux](https://img.shields.io/badge/Linux-OS-black)
