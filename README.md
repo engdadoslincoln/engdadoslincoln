@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Olá, eu sou Lincoln Monteiro
 
-<!--
-**engdadoslincoln/engdadoslincoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Especialista em Tecnologia | Cloud | Banco de Dados | Automação  
+☁️ Foco em AWS, Arquitetura Cloud e Soluções Escaláveis  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou profissional de tecnologia com experiência em:
+- Arquitetura e administração de ambientes cloud
+- Automação de processos
+- Banco de dados e alta disponibilidade
+- Construção de soluções escaláveis e seguras
+
+Atualmente focado em **AWS**, **Cloud Architecture** e **Serverless**.
+
+---
+
+## ☁️ AWS | Cloud Skills
+
+- EC2, S3, RDS, DynamoDB
+- IAM, VPC, Security Groups
+- Lambda, API Gateway
+- CloudWatch, CloudTrail
+- Infraestrutura como Código (Terraform / CDK)
+
+---
+
+## 🛠️ Tecnologias
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Linux](https://img.shields.io/badge/Linux-OS-black)
+
+---
+
+## 📂 Projetos em Destaque
+
+🔹 **AWS Serverless App**
+> API Serverless usando Lambda, API Gateway e DynamoDB  
+> Infra como código e monitoramento com CloudWatch  
+
+🔹 **Automação e Monitoramento**
+> Scripts e soluções para observabilidade e alertas  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/seu-linkedin
+- 📧 Email: seu@email.com
